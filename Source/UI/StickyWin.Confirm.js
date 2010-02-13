@@ -1,4 +1,14 @@
 /*
+---
+description: Extends StickyWin.Alert to make a confirmation box with ok and close
+  buttons.
+provides: [StickyWin.Confirm]
+requires: [/StickyWin.Alert]
+script: StickyWin.Confirm.js
+
+...
+*/
+/*
 Script: StickyWin.Confirm.js
 	Defines StickyWin.Conferm, a simple confirmation box with an ok and a close button.
 

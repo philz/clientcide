@@ -1,4 +1,13 @@
 /*
+---
+description: SimpleEditor messages in Dutch (feel free to send in your own translations).
+provides: [SimpleEditor.Dutch]
+requires: [More/Lang]
+script: SimpleEditor.Dutch.js
+
+...
+*/
+/*
 Script: SimpleEditor.Dutch.js
 	SimpleEditor messages in Dutch. Thanks Lennart Pilon.
 

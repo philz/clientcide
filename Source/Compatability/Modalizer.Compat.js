@@ -1,3 +1,14 @@
+/*
+---
+description: Provides functionality to overlay the window contents with a semi-transparent
+  layer. <b>DEPRECATED</b> (See Mask in MooTools More).
+provides: [Modalizer.Compat]
+requires: [core/DomReady, core/Element.Dimensions, core/Element.Style, core/Selectors,
+  core/Class.Extras]
+script: Modalizer.Compat.js
+
+...
+*/
 var Modalizer = new Class({
 	defaultModalStyle: {
 		display:'block',

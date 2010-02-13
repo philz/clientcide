@@ -1,4 +1,15 @@
 /*
+---
+description: Prompts the user to fill in the gaps to create an html tag output.
+provides: [TagMaker]
+requires: [core/Element.Dimensions, core/Element.Event, core/Selectors, core/Fx.Tween,
+  core/Fx.Morph, More/Tips, More/Element.Shortcuts, More/Element.Forms, More/Form.Validator.Inline,
+  /StickyWin.UI, More/HtmlTable, More/Drag]
+script: TagMaker.js
+
+...
+*/
+/*
 Script: TagMaker.js
 	Prompts the user to fill in the gaps to create an html tag output.
 

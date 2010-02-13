@@ -1,4 +1,13 @@
 /*
+---
+description: A MooTools 1.2.4 version of <a href="http://icebeat.bitacoras.com/mootools/posteditor/">PostEditor</a>.
+provides: [PostEditor]
+requires: [core/Class.Extras, core/Element.Style, core/Element.Event]
+script: PostEditor.js
+
+...
+*/
+/*
 Script: PostEditor.js
 	Using postEditor you can tabulate without losing your focus and maintain the tabsize in line brakes. 
 	You can also use snippets like in TextMate.

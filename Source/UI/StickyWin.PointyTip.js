@@ -1,4 +1,14 @@
 /*
+---
+description: A convenience library to place a StickyWin.UI.Pointy relative to an element
+  on the page easily.
+provides: [StickyWin.PointyTip]
+requires: [/StickyWin.UI.Pointy]
+script: StickyWin.PointyTip.js
+
+...
+*/
+/*
 Script: StickyWin.PointyTip.js
 	Positions a pointy tip relative to the element you specify.
 

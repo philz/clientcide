@@ -1,4 +1,15 @@
 /*
+---
+description: A <a href="http://www.huddletogether.com/projects/lightbox/">Lightbox
+  clone for MooTools.</a>
+provides: [Lightbox]
+requires: [core/Element.Event, core/Element.Dimensions, core/Selectors, core/Browser,
+  core/Fx.Tween, core/Fx.Morph, core/DomReady, /Clientcide, More/Class.Binds, More/Mask]
+script: Lightbox.js
+
+...
+*/
+/*
 Script: Lightbox.js
 	A lightbox clone for MooTools.
 

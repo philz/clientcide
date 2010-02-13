@@ -1,3 +1,12 @@
+/*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [JsonP.Compat]
+requires: [More/Class.Refactor, More/Request.JSONP]
+script: JsonP.Compat.js
+
+...
+*/
 var JsonP = Class.refactor(Request.JSONP, {
 	initialize: function() {
 		var params = Array.link(arguments, {url: String.type, options: Object.type});

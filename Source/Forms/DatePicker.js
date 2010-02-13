@@ -1,4 +1,15 @@
 /*
+---
+description: Allows the user to enter a date in any popuplar format or choose from
+  a calendar.
+provides: [DatePicker]
+requires: [core/Class.Extras, core/Element.Event, More/Date, /dbug, /StickyWin.UI,
+  /StickyWin.Drag]
+script: DatePicker.js
+
+...
+*/
+/*
 Script: DatePicker.js
 	Allows the user to enter a date in many popuplar date formats or choose from a calendar.
 

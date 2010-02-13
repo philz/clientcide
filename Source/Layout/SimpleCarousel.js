@@ -1,4 +1,14 @@
 /*
+---
+description: Builds a carousel object that manages the basic functions of a generic
+  carousel.
+provides: [SimpleCarousel]
+requires: [More/Fx.Elements, core/DomReady, More/Element.Shortcuts]
+script: SimpleCarousel.js
+
+...
+*/
+/*
 Script: SimpleCarousel.js
 
 Builds a carousel object that manages the basic functions of a generic carousel (a carousel	here being a collection of "slides" that play from one to the next, with a collection of "buttons" that reference each slide).

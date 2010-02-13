@@ -1,4 +1,14 @@
 /*
+---
+description: Extends Form.Request and Form.Request.Append to use a popup (StickyWin)
+  for the form.
+provides: [Form.Request.Prompt]
+requires: [More/Form.Request.Append, /StickyWin.Modal, /StickyWin.Ajax]
+script: Form.Request.Prompt.js
+
+...
+*/
+/*
 Script: Form.Request.Prompt.js
 	Prompts the user with the contents of a form (retrieved via ajax) and updates a DOM element with the result of the submission.
 

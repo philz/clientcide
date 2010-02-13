@@ -1,4 +1,14 @@
 /*
+---
+description: Handles the scripting for a common UI layout; the tabbed box.
+provides: [TabSwapper]
+requires: [core/Element.Event, core/Fx.Tween, core/Fx.Morph, More/Element.Shortcuts,
+  core/Element.Dimensions, More/Element.Measure]
+script: TabSwapper.js
+
+...
+*/
+/*
 name: TabSwapper.js
 description: Handles the scripting for a common UI layout; the tabbed box.
 License: http://www.clientcide.com/wiki/cnet-libraries#license

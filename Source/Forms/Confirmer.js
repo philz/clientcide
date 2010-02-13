@@ -1,4 +1,14 @@
 /*
+---
+description: Fades a message in and out for the user to tell them that some event
+  (like an ajax save) has occurred.
+provides: [Confirmer]
+requires: [core/DomReady, core/Fx.Tween, More/Element.Shortcuts, More/Element.Position]
+script: Confirmer.js
+
+...
+*/
+/*
 Script: Confirmer.js
 	Fades a message in and out for the user to tell them that some event (like an ajax save) has occurred.
 

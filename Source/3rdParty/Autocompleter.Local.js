@@ -1,3 +1,13 @@
+/*
+---
+description: Allows Autocompleter to use an object in memory for autocompletion (instead
+  of retrieving via ajax).
+provides: [Autocompleter.Local]
+requires: [/Autocompleter]
+script: Autocompleter.Local.js
+
+...
+*/
 /**
  * Autocompleter.Local
  *

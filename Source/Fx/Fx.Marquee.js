@@ -1,4 +1,13 @@
 /*
+---
+description: A simple marquee effect for fading in and out messages.
+provides: [Fx.Marquee]
+requires: [core/Fx.Morph, More/Element.Shortcuts]
+script: Fx.Marquee.js
+
+...
+*/
+/*
 Script: Fx.Marquee.js
 	Defines Fx.Marquee, a marquee class for animated notifications.
 

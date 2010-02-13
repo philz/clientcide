@@ -1,4 +1,13 @@
 /*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [Element.MouseOvers.Compat]
+requires: [More/Element.Shortcuts, core/Element.Event]
+script: Element.MouseOvers.Compat.js
+
+...
+*/
+/*
 Script: Element.MouseOvers.js
 
 Collection of mouseover behaviours (images, class toggles, etc.).

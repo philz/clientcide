@@ -1,4 +1,13 @@
 /*
+---
+description: SimpleEditor messages in French (feel free to send in your own translations).
+provides: [SimpleEditor.French]
+requires: [More/Lang]
+script: SimpleEditor.French.js
+
+...
+*/
+/*
 Script: SimpleEditor.French.js
 	SimpleEditor messages in French. Thanks Miquel Hudin.
 

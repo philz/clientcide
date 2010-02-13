@@ -1,4 +1,14 @@
 /*
+---
+description: Allows the user to enter a date in any popuplar format or choose from
+  a calendar.
+provides: [DatePicker.Extras]
+requires: [core/Class.Extras, core/Element.Event, /dbug, /StickyWin, More/Class.Refactor]
+script: DatePicker.Extras.js
+
+...
+*/
+/*
 Script: DatePicker.Extras.js
 	Extends DatePicker to allow for range selection and time entry.
 

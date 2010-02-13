@@ -1,3 +1,12 @@
+/*
+---
+description: Form.Validator using StickyWin.PointyTip.
+provides: [Form.Validator.Tips]
+requires: [More/Form.Validator.Inline, /StickyWin.PointyTip]
+script: Form.Validator.Tips.js
+
+...
+*/
 Form.Validator.Tips = new Class({
 	Extends: Form.Validator.Inline,
 	options: {

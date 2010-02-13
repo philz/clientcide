@@ -1,4 +1,13 @@
 /*
+---
+description: Extends StickyWin to create popups that fade in and out and are draggable.
+provides: [StickyWin.Drag]
+requires: [More/Class.Refactor, More/Drag.Move, /StickyWin]
+script: StickyWin.Drag.js
+
+...
+*/
+/*
 Script: StickyWin.Drag.js
 
 Implements drag and resize functionaity into StickyWin.Fx. See StickyWin.Fx for the options.

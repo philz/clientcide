@@ -1,4 +1,15 @@
 /*
+---
+description: Makes a very, very simple slideshow gallery with a collection of dom
+  elements and previous and next buttons.
+provides: [SimpleSlideShow]
+requires: [More/Class.Binds, core/Element.Dimensions, core/Fx.Tween, core/Element.Event,
+  More/Element.Shortcuts, /Class.ToElement]
+script: SimpleSlideShow.js
+
+...
+*/
+/*
 Script: SimpleSlideShow.js
 
 Makes a very, very simple slideshow gallery with a collection of dom elements and previous and next buttons.

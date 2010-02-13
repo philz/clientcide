@@ -1,3 +1,12 @@
+/*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [OverText.Compat]
+requires: [More/OverText, More/Class.Refactor]
+script: OverText.Compat.js
+
+...
+*/
 OverText = Class.refactor(OverText, {
 	initialize: function(inputs, options){
 		this.instances = [];

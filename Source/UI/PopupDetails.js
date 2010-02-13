@@ -1,4 +1,14 @@
 /*
+---
+description: Handles popup detail templated elements.
+provides: [PopupDetails]
+requires: [core/Element.Event, core/Request, core/JSON, /dbug, More/String.Extras,
+  /StickyWin]
+script: PopupDetails.js
+
+...
+*/
+/*
 Script: PopupDetails.js
 	Creates hover detail popups for a collection of elements and data.
 

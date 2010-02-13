@@ -1,3 +1,12 @@
+/*
+---
+description: Creates an html holder for in-page popups using a default style.
+provides: [StickyWin.UI]
+requires: [core/Element.Style, More/String.Extras, /StickyWin]
+script: StickyWin.UI.js
+
+...
+*/
  /*
 Script: StickyWin.ui.js
 

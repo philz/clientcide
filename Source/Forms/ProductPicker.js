@@ -1,4 +1,15 @@
 /*
+---
+description: Allows the user to pick a product from a data source.
+provides: [ProductPicker]
+requires: [core/Element.Event, core/Fx.Tween, More/Fx.Elements, core/Element.Dimensions,
+  More/Drag, /StickyWin, More/Request.JSONP, /dbug, More/Element.Shortcuts, More/Tips,
+  /StyleWriter]
+script: ProductPicker.js
+
+...
+*/
+/*
 Script: ProductPicker.js
 	Allows the user to pick a product from a data source.
 

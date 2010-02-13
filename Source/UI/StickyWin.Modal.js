@@ -1,4 +1,13 @@
 /*
+---
+description: This script extends StickyWin class to add Mask functionality.
+provides: [StickyWin.Modal]
+requires: [/StickyWin, More/Mask]
+script: StickyWin.Modal.js
+
+...
+*/
+/*
 Script: StickyWin.Modal.js
 
 This script extends StickyWin and StickyWin.Fx classes to add Mask functionality.

@@ -1,4 +1,13 @@
 /*
+---
+description: Extends StickyWin to create little alert box with a close button.
+provides: [StickyWin.Alert]
+requires: [/StickyWin.Modal, /StickyWin.UI]
+script: StickyWin.Alert.js
+
+...
+*/
+/*
 Script: StickyWin.Alert.js
 	Defines StickyWin.Alert, a simple little alert box with a close button.
 

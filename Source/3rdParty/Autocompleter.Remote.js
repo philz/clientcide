@@ -1,3 +1,13 @@
+/*
+---
+description: Allows Autocompleter to get data from a remote server (using Request
+  - a.k.a. Ajax).
+provides: [Autocompleter.Remote]
+requires: [/Autocompleter, core/Request.HTML, core/Request.JSON]
+script: Autocompleter.Remote.js
+
+...
+*/
 /**
  * Autocompleter.Remote
  *

@@ -1,4 +1,14 @@
 /*
+---
+description: An in-page popup maker.
+provides: [StickyWin]
+requires: [core/DomReady, core/Selectors, More/Element.Position, More/Class.Binds,
+  /Class.ToElement, More/Element.Shortcuts, More/Element.Pin, More/IframeShim, /StyleWriter]
+script: StickyWin.js
+
+...
+*/
+/*
 Script: StickyWin.js
 
 Creates a div within the page with the specified contents at the location relative to the element you specify; basically an in-page popup maker.

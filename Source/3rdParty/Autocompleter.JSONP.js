@@ -1,4 +1,14 @@
 /*
+---
+description: Allows Autocompleter to get data from a remote server using Request.JSONP
+  (script injection).
+provides: [Autocompleter.JSONP]
+requires: [/Autocompleter.Remote, More/Request.JSONP]
+script: Autocompleter.JSONP.js
+
+...
+*/
+/*
 Script: Autocompleter.JSONP.js
 	Implements Request.JSONP support for the Autocompleter class.
 

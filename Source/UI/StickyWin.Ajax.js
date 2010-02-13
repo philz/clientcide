@@ -1,4 +1,13 @@
 /*
+---
+description: Adds ajax functionality to all the StickyWin classes.
+provides: [StickyWin.Ajax]
+requires: [core/Request, /StickyWin, /StickyWin.UI]
+script: StickyWin.Ajax.js
+
+...
+*/
+/*
 Script: StickyWin.Ajaxjs
 
 Adds ajax functionality to all the StickyWin classes.

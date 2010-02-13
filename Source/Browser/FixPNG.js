@@ -1,4 +1,14 @@
 /*
+---
+description: Fixes transparent png files and dom elements with transparent png backgrounds
+  for IE6
+provides: [FixPNG]
+requires: [core/Element.Dimensions, core/DomReady, /dbug, More/Element.Shortcuts]
+script: FixPNG.js
+
+...
+*/
+/*
 Script: FixPNG.js
 	Extends the Browser hash object to include methods useful in managing the window location and urls.
 

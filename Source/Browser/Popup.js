@@ -1,4 +1,14 @@
 /*
+---
+description: A Class wrapper for window.open that provides a more pleasant interface
+  than the default window.open arguments.
+provides: [Popup]
+requires: [core/Browser, core/Class.Extras]
+script: Popup.js
+
+...
+*/
+/*
 Script: Popup.js
 	Defines the Popup class useful for making popup windows.
 

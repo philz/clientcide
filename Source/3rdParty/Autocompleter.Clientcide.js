@@ -1,4 +1,13 @@
 /*
+---
+description: Extends Autocompleter to automatically inject the css styles.
+provides: [Autocompleter.Clientcide]
+requires: [/Autocompleter, /Clientcide, More/Class.Refactor]
+script: Autocompleter.Clientcide.js
+
+...
+*/
+/*
 Script: AutoCompleter.Clientcide.js
 	Adds Clientcide css assets to autocompleter automatically.
 

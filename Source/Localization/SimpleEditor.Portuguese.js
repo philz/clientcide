@@ -1,4 +1,13 @@
 /*
+---
+description: SimpleEditor messages in Portuguese (feel free to send in your own translations).
+provides: [SimpleEditor.Portuguese]
+requires: [More/Lang]
+script: SimpleEditor.Portuguese.js
+
+...
+*/
+/*
 Script: SimpleEditor.Portuguese.js
 	SimpleEditor messages in Portuguese. Thanks Miquel Hudin.
 

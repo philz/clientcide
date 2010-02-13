@@ -1,4 +1,14 @@
 /*
+---
+description: Provides a simple method for injecting a css style element into the DOM
+  if it's not already present.
+provides: [StyleWriter]
+requires: [core/Class, core/DomReady, core/Element, /dbug]
+script: StyleWriter.js
+
+...
+*/
+/*
 Script: StyleWriter.js
 
 Provides a simple method for injecting a css style element into the DOM if it's not already present.

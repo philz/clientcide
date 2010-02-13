@@ -1,3 +1,12 @@
+/*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [Browser.Extras.Compat]
+requires: [core/DomReady, More/URI]
+script: Browser.Extras.Compat.js
+
+...
+*/
 $extend(Browser, {
 	getHost: function(url) {
 		return new URI(url).get('host');

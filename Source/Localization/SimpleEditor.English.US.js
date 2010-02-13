@@ -1,4 +1,13 @@
 /*
+---
+description: SimpleEditor messages in US English (feel free to send in your own translations).
+provides: [SimpleEditor.English.US]
+requires: [More/Lang]
+script: SimpleEditor.English.US.js
+
+...
+*/
+/*
 Script: SimpleEditor.English.US.js
 	SimpleEditor messages in English.
 

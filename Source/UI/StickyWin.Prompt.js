@@ -1,4 +1,14 @@
 /*
+---
+description: Extends StickyWin.Confirm to make a prompt box with an input as well
+  as ok and close buttons.
+provides: [StickyWin.Prompt]
+requires: [/StickyWin.Confirm]
+script: StickyWin.Prompt.js
+
+...
+*/
+/*
 Script: StickyWin.Prompt.js
 	Defines StickyWin.Prompt, a little prompt box with an input as well as ok close buttons.	
 License:

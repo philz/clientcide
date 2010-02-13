@@ -1,4 +1,13 @@
 /*
+---
+description: Creates a tree view of any javascript object.
+provides: [ObjectBrowser]
+requires: [core/Element.Event, core/Class.Extras, /dbug, More/Hash.Extras, More/Element.Shortcuts]
+script: ObjectBrowser.js
+
+...
+*/
+/*
 Script: ObjectBrowser.js
 	Creates a tree view of any javascript object.
 

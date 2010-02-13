@@ -1,3 +1,12 @@
+/*
+---
+description: Manages mousing in and out of multiple objects (think drop-down menus).
+provides: [HoverGroup]
+requires: [core/Class.Extras, core/Element.Event, More/Class.Binds]
+script: HoverGroup.js
+
+...
+*/
 var HoverGroup = new Class({
 	Implements: [Options, Events],
 	Binds: ['enter', 'leave', 'remain'],

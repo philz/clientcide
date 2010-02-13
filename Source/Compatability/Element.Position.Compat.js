@@ -1,3 +1,12 @@
+/*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [Element.Position.Compat]
+requires: [More/Element.Position]
+script: Element.Position.Compat.js
+
+...
+*/
 (function(){
 	var orig = Element.prototype.setPosition;
 	Element.implement({

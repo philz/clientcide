@@ -1,4 +1,13 @@
 /*
+---
+description: Creates Tips using the StickyWin.PointyTip layout.
+provides: [Tips.Pointy]
+requires: [More/Tips, /StickyWin.PointyTip]
+script: Tips.Pointy.js
+
+...
+*/
+/*
 Script: Tips.Pointy.js
 	Defines Tips.Pointy, An extension to Tips that adds a pointy style to the tip.
 

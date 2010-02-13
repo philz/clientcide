@@ -1,4 +1,13 @@
 /*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [Waiter.Compat]
+requires: [core/String]
+script: Waiter.Compat.js
+
+...
+*/
+/*
 Script: Waiter.Compat.js
 
 License:

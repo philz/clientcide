@@ -1,4 +1,14 @@
 /*
+---
+description: A simple icon (img) based menu.
+provides: [IconMenu]
+requires: [core/Element.Event, core/Selectors, core/Element.Dimensions, core/Fx.Tween,
+  core/Fx.Morph, More/Fx.Elements, core/Fx.Transitions, /dbug]
+script: IconMenu.js
+
+...
+*/
+/*
 Script: IconMenu.js
 	Defines IconMenu, a simple icon (img) based menu.
 

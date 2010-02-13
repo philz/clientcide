@@ -1,4 +1,14 @@
 /*
+---
+description: Extends Posted editor to implement default rules used by the (old) MooTools
+  forums.
+provides: [PostEditor.Forum]
+requires: [/PostEditor]
+script: PostEditor.Forum.js
+
+...
+*/
+/*
 Script: PostEditor.Forum.js
 	Default snippets for PostEditor.
 

@@ -1,4 +1,14 @@
 /*
+---
+description: Similar to StickyWin.ui, this is a wrapper for content, this time a tip
+  with a pointer.
+provides: [StickyWin.UI.Pointy]
+requires: [More/Element.Shortcuts, More/Element.Position, /StickyWin.UI]
+script: StickyWin.UI.Pointy.js
+
+...
+*/
+/*
 Script: StickyWin.UI.Pointy.js
 
 Creates an html holder for in-page popups using a default style - this one including a pointer in the specified direction.

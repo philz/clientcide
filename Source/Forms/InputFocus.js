@@ -1,4 +1,13 @@
 /*
+---
+description: Adds a 'focused' class to inputs when they have focus.
+provides: [InputFocus]
+requires: [core/Class.Extras, core/Element, More/Class.Occlude, /Class.ToElement]
+script: InputFocus.js
+
+...
+*/
+/*
 Script: InputFocus.js
 	Adds a focused css class to inputs when they have focus.
 

@@ -1,3 +1,12 @@
+/*
+---
+description: Used by Autocompleter to monitor an input for changes.
+provides: [Autocompleter.Observer]
+requires: [core/Class.Extras, core/Element.Event, core/JSON, /Clientcide]
+script: Autocompleter.Observer.js
+
+...
+*/
 /**
  * Observer - Observe formelements for changes
  *

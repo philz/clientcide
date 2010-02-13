@@ -1,4 +1,13 @@
 /*
+---
+description: Wrapper for the firebug console.log() function.
+provides: [dbug]
+requires: []
+script: dbug.js
+
+...
+*/
+/*
 Script: dbug.js
 	A wrapper for Firebug console.* statements.
 

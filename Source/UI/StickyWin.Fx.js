@@ -1,4 +1,13 @@
 /*
+---
+description: Extends StickyWin to create popups that fade in and out.
+provides: [StickyWin.Fx]
+requires: [More/Class.Refactor, core/Fx.Tween, /StickyWin]
+script: StickyWin.Fx.js
+
+...
+*/
+/*
 Script: StickyWin.Fx.js
 
 	Extends StickyWin to create popups that fade in and out.

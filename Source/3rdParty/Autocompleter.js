@@ -1,3 +1,13 @@
+/*
+---
+description: An auto completer class from <a href="http://digitarald.de">http://digitarald.de</a>.
+provides: [Autocompleter]
+requires: [core/Fx.Tween, More/Element.Shortcuts, More/Element.Forms, More/IframeShim,
+  /Autocompleter.Observer, /Clientcide]
+script: Autocompleter.js
+
+...
+*/
 /**
  * Autocompleter
  *

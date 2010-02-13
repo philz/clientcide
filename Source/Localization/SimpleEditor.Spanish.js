@@ -1,4 +1,13 @@
 /*
+---
+description: SimpleEditor messages in Spanish (feel free to send in your own translations).
+provides: [SimpleEditor.Spanish]
+requires: [More/Lang]
+script: SimpleEditor.Spanish.js
+
+...
+*/
+/*
 Script: SimpleEditor.Spanish.js
 	SimpleEditor messages in Spanish. Thanks Miquel Hudin.
 

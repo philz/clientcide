@@ -1,4 +1,14 @@
 /*
+---
+description: Enables a dom element to, when clicked, hide or show (it toggles) another
+  dom element. Kind of an Accordion for one item.
+provides: [Collapsible]
+requires: [core/Element.Event, More/Fx.Reveal]
+script: Collapsible.js
+
+...
+*/
+/*
 Script: Collapsible.js
 	Enables a dom element to, when clicked, hide or show (it toggles) another dom element. Kind of an Accordion for one item.
 

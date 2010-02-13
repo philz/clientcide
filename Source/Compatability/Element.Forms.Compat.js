@@ -1,4 +1,13 @@
 /*
+---
+description: Compatibility for MooTools More 1.2.4
+provides: [Element.Forms.Compat]
+requires: [core/Element]
+script: Element.Forms.Compat.js
+
+...
+*/
+/*
 
 Element Property: inputValue {#Element-Properties:inputValue}
 -------------------------------------------------------------

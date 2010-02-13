@@ -1,4 +1,14 @@
 /*
+---
+description: A simple html editor for wrapping text with links and whatnot.
+provides: [SimpleEditor]
+requires: [core/Class.Extras, /Class.ToElement, More/Class.Occlude, More/Element.Forms,
+  More/Element.Shortcuts, core/Element.Event, More/String.Extras, /SimpleEditor.English.US]
+script: SimpleEditor.js
+
+...
+*/
+/*
 Script: SimpleEditor.js
 	A simple html editor for wrapping text with links and whatnot.
 

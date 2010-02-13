@@ -1,4 +1,15 @@
 /*
+---
+description: Recreates standard scrollbar behavior for elements with overflow using
+  DOM elements styleable by css.
+provides: [MooScroller]
+requires: [core/Class.Extras, core/Element.Dimensions, core/Element.Event, core/Element.Style,
+  core/Selectors, /Clientcide]
+script: MooScroller.js
+
+...
+*/
+/*
 Script: MooScroller.js
 
 Recreates the standard scrollbar behavior for elements with overflow but using DOM elements so that the scroll bar elements are completely styleable by css.
